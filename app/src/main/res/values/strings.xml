@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cheap Flights</string>
+    <string name="help">Help</string>
+    <string name="button1">Простой</string>
+    <string name="button2">Сложный</string>
+    <string name="button3">Искать билеты</string>
+    <string name="cityFromLabel">Город отправления</string>
+    <string name="cityFrom">Аэропорт</string>
+    <string name="cityToLabel">Город прибытия</string>
+    <string name="cityTo">Аэропорт</string>
+    <string name="dateFrom">16 июля, 2020</string>
+    <string name="dayFrom">Четверг</string>
+    <string name="dateTo">Дата возвращения</string>
+    <string name="dayTo">День недели</string>
+    <string name="classLabel">Класс</string>
+    <string name="classData">Эконом</string>
+    <string name="passengersLabel">Пассажиры</string>
+    <string name="passengersCountMen">1</string>
+    <string name="passengersCountWomen">0</string>
+    <string name="passengersCountChild">0</string>
+    <string name="popup">Аэропорт</string>
+    <string name="sign">Подтвердить</string>
+    <string name="close">Закрыть</string>
+</resources>
